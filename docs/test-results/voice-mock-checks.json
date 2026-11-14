@@ -1,0 +1,14 @@
+{
+  "mocked_voice_checks": [
+    "Tool requires explicit approval before any request",
+    "Approved tool executes once",
+    "Denied tool does not execute",
+    "End call stops tracks and closes peer",
+    "Native background event stops capture",
+    "Late microphone permission after cancel is cleaned up",
+    "Audio elements removed; no uncaught errors"
+  ],
+  "count": 7,
+  "real_webrtc_or_microphone_tested": false,
+  "paid_provider_tested": false
+}

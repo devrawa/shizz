@@ -1,0 +1,18 @@
+{
+  "browser_checks": [
+    "Demo identity and provider-unconfigured state",
+    "Sorani streamed demo reply is explicitly labelled",
+    "Markdown remote images never load",
+    "Real backend-local secret scan and redacted report",
+    "Decimal quote, unsent proposal and browser export",
+    "Device token not persisted to localStorage",
+    "Demo search is disabled without fabricated sources",
+    "No horizontal overflow on all six screens at 320/360/390/768/1440 px",
+    "Missing voice services route to setup, not fake microphone activity",
+    "Sorani navigation toggle",
+    "No uncaught browser page errors"
+  ],
+  "count": 11,
+  "live_paid_apis_tested": false,
+  "physical_android_tested": false
+}
